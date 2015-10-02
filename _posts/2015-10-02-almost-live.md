@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "We're almost live"
+date: 2015-10-02 14:30
 ---
 Just setup our new domain. So far so good. It takes some time for things to populate. Next will be the TLS.
 
